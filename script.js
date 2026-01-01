@@ -30,6 +30,15 @@ I may not say it often, but my heart is always full because of you.
 I love you so, so much 🤍 ❤️`
   },
 
+  anuhya: {
+    password: "sister",
+    message: `happy new year anuhya akka.
+wishing you luck and happiness. u have been a good friend to my sister,i appreciate that.
+we were connected because of my sister and loki annayya. you guys have never make me feel like i am burden, tq for that.
+Because of you guys i have enjoyed somehow, thank you.
+and once again happy new year🤍❤️`
+  },
+  
   satyavathi: {
     password: "amma",
     message: `Mom, you are my softest place and my biggest strength.
@@ -135,3 +144,4 @@ function startConfetti() {
 
   setInterval(draw, 20);
 }
+
